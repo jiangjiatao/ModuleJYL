@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ModuleJYL'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ModuleJYL.'
+  s.summary          = 'ModuleJYL IS FUN.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,13 +19,14 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+ModuleJYL IS FUN.
                        DESC
 
-  s.homepage         = 'https://github.com/937840988@qq.com/ModuleJYL'
+  s.homepage         = 'https://github.com/jiangjiatao/ModuleJYL'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '937840988@qq.com' => '15304072722@163.com' }
-  s.source           = { :git => 'https://github.com/937840988@qq.com/ModuleJYL.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jiangjiatao/ModuleJYL.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

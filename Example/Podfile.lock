@@ -1,0 +1,16 @@
+PODS:
+  - ModuleJYL (0.1.0)
+
+DEPENDENCIES:
+  - ModuleJYL (from `../`)
+
+EXTERNAL SOURCES:
+  ModuleJYL:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModuleJYL: 872b6db5e869a397f1bc034e65debf9963c6ecb8
+
+PODFILE CHECKSUM: 9222f9de0c2874638f1d6db4a149bb08a5e43d3d
+
+COCOAPODS: 1.8.4
