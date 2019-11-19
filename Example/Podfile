@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ModuleJYL_Example' do
+  pod 'ModuleJYL', :path => '../'
+
+  target 'ModuleJYL_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
